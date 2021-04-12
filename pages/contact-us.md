@@ -20,15 +20,12 @@ agency_name: CodeFiesta @ GovTech
 #         - 109 North Bridge Road
 #         - Singapore 179097
 #     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-# contacts:
-#   - title: Email
-#     content:
-#     - phone: +65 6123 4567
-#     - email: enquiries@abc.gov.sg
-#     - other: Any text here <i>including HTML</i>
-#   - title: Careers
-#     content:
-#     - email: careers@abc.gov.sg
+contacts:
+  - title: Organising Committee
+    content:
+    # - phone: +65 6123 4567
+    - email: codefiesta21@gmail.com
+    - discord: https://discord.gg/Kn8jENd73T
 ---
 We are a group of students from Imperial College London and Cambridge working in collaboration with Govtech. We hope this hackathon is fun!
 

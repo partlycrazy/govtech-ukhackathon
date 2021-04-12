@@ -17,6 +17,8 @@ sections:
 
 <!-- # based on whatever was in the Govtech Whatsapp chat -->
 <!-- Table (for now)
+have to figure out how to make a nice table in Isomer
+
 | Fri 18 June | ?       | Hackathon Begins                                   |
 |-------------|---------|----------------------------------------------------|
 | Sun 20 June | 2359    | Submission of prototype                            |
