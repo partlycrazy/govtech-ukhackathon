@@ -25,7 +25,7 @@ contacts:
     content:
     # - phone: +65 6123 4567
     - email: codefiesta21@gmail.com
-    - text: "Discord Server: <https://discord.gg/Kn8jENd73T>"
+    - text: <a href="https://discord.gg/Kn8jENd73T">Discord Server</a>
 ---
 We are a group of students from Imperial College London and Cambridge working in collaboration with Govtech. We hope this hackathon is fun!
 
