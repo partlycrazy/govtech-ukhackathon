@@ -2,26 +2,27 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/govtech_logo.gif
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Signups close _DATE_!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        title: Code Fiesta 2021
+        subtitle: A hackathon in collaboration with GovTech Singapore
+        background: /images/code_fiesta_logo.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: Hackathon Categories
+              description: Diverse tracks for all tech talents!
+              url: /categories/
+            - title: Hackathon Timeline
+              description: One week of hacking and learning!
+              url: /timeline/
+            - title: FAQ
+              description: Read Me!
+              url: /faq/
+              
     - infobar:
         title: Infobar title
         subtitle: Subtitle

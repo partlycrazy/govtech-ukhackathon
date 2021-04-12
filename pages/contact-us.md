@@ -3,10 +3,6 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: CodeFiesta @ GovTech
-
-email: codefiesta21@gmail.com
-discord: https://discord.gg/Kn8jENd73T
-
 # locations:
 #   - title: Main Office
 #     address:
@@ -34,3 +30,7 @@ discord: https://discord.gg/Kn8jENd73T
 #     content:
 #     - email: careers@abc.gov.sg
 ---
+We are a group of students from Imperial College London and Cambridge working in collaboration with Govtech. We hope this hackathon is fun!
+
+Email: <codefiesta21@gmail.com>
+Discord: <https://discord.gg/Kn8jENd73T>

@@ -4,20 +4,20 @@
 #                                #
 ##################################
 
-logo: /images/code_fiesta_logo.jpg
+logo: /images/code_fiesta_icon.jpg
 
 links:
   - title: Prizes
     url: /prizes/
   - title: Speakers
     url: /speakers/
+  - title: Hackathon Categories
+    url: /categories/
   - title: Hackathon Timeline
     url: /timeline/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Single Page
-    url: /example-single-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Example Resource
-    resource_room: true
+  # - title: Example Collection
+  #   collection: example-collection
+  # - title: Example Resource
+  #   resource_room: true
