@@ -1,22 +1,25 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+title: Code Fiesta 2021
+url: "https://www.codefiesta21.gov.sg"  # the base hostname & protocol for your site, e.g. http://example.com
+favicon: /images/logo.ico     # TODO
 
-# Site colors
+# Site colors - copied from 
+# https://drive.google.com/drive/u/0/folders/1nT_EYEe0sy5kFQB4iR3NNAubSPHDsVj-
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#f4ba76'      # orangey
+  secondary-color: '#b36898'    # beetroot
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#ed9d7a'          # orange
     - title: media-color-two
-      color: '#744d9f'
+      color: '#9368a8'          # purple
     - title: media-color-three
-      color: '#00838f'
+      color: '#e5857e'          # salmon (?)
     - title: media-color-four
-      color: '#00838f'
+      color: '#695db1'          # violet
     - title: media-color-five
-      color: '#00838f'
+      color: '#da7483'          # red/pink
+    - title: media-color-six    # added from default; not sure if it'll show up
+      color: '#4451b1'          # dark blue
 
 
 collections:
@@ -24,7 +27,7 @@ collections:
     output: true
 resources_name: example-resource
 
-description: An Isomer site of the Singapore Government
+description: Info homepage for the 2021 iteration of the Code Fiesta Hackathon organised in collaboration with GovTech Singapore
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

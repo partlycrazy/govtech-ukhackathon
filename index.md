@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/govtech_logo.gif
+image: /images/code_fiesta_icon.jpg
 permalink: /
 notification: Signups close _DATE_!
 sections:
