@@ -24,20 +24,45 @@ sections:
               url: /faq/
               
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        title: Prizes
+        subtitle: Every member of the winning team will each receive one of the stated item unless stated otherwise.
+        description: Stand a chance to win iPads and more!
+        button: See More
+        url: /prizes/
     - infobar:
-        title: Infobar 2
-        subtitle: Test2
-        description: More sections
-        button: Bottom text
+        title: Speakers
+        subtitle:  # Nothing much to put here
+        description: You'll have the chance to learn from our guest speakers!
+        button: Speakers
         url: /speakers/
+    - infobar:
+        title: Workshops
+        subtitle:  # Nothing much to put here
+        description: Our sponsors - TBC
+        button: See More
+        url: /speakers/
+    - infobar:
+        title: Sponsors
+        subtitle:  # Nothing much to put here
+        description: Our sponsors - TBC
+        button: See More
+        url: /speakers/
+    - infobar:
+        title: Timeline
+        subtitle: cross-ref Proposal 4.0 doc
+        description: Hackathon Timeline
+        button: Timeline
+        url: /timeline/
+    - infobar:
+        title: FAQs
+        subtitle: 
+        description: All your questions
+        button: Read Me
+        url: /FAQs/
     - resources:
         title: Media
         subtitle: Learn more
         button: View More
 ---
 
+<!-- Multiple infobar sections are allowed -->
