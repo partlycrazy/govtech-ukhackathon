@@ -5,7 +5,7 @@ favicon: /images/logo.ico     # TODO
 # Site colors - copied from 
 # https://drive.google.com/drive/u/0/folders/1nT_EYEe0sy5kFQB4iR3NNAubSPHDsVj-
 colors:
-  primary-color: '#f4ba76'      # orangey
+  primary-color: '#695db1'      # violet
   secondary-color: '#b36898'    # beetroot
   media-colors:
     - title: media-color-one
@@ -15,7 +15,7 @@ colors:
     - title: media-color-three
       color: '#e5857e'          # salmon (?)
     - title: media-color-four
-      color: '#695db1'          # violet
+      color: '#f4ba76'          # orangey
     - title: media-color-five
       color: '#da7483'          # red/pink
     - title: media-color-six    # added from default; not sure if it'll show up

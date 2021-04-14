@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Code Fiesta 2021
+description: Code Fiesta is a hackathon organised in collaboration with GovTech Singapore.
 image: /images/code_fiesta_icon.jpg
 permalink: /
 notification: Signups close _DATE_!
@@ -29,6 +29,12 @@ sections:
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
+    - infobar:
+        title: Infobar 2
+        subtitle: Test2
+        description: More sections
+        button: Bottom text
+        url: /speakers/
     - resources:
         title: Media
         subtitle: Learn more
