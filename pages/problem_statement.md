@@ -3,7 +3,7 @@ title: Hackathon Problem Statement
 permalink: /problem-statement
 ---
 
-### **Hackathon Problem Statement [TBC] **
+### **Hackathon Problem Statement [TBC]**
 
 Cross-reference Challenge Statement on `Proposal 4.0`
 
