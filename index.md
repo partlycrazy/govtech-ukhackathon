@@ -58,7 +58,7 @@ sections:
         subtitle: 
         description: All your questions
         button: Read Me
-        url: /FAQs/
+        url: /faq/
     - resources:
         title: Media
         subtitle: Learn more
