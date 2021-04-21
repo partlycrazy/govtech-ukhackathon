@@ -10,12 +10,12 @@ sections:
         title: Code Fiesta 2021
         subtitle: A hackathon in collaboration with GovTech Singapore
         background: /images/code_fiesta_logo.jpg
-        button: Contact Us
-        url: /contact-us/
+        button: Sign up now!
+        url: /sign-up/
         key_highlights:
-            - title: Hackathon Categories
-              description: Diverse tracks for all tech talents!
-              url: /categories/
+            - title: Problem Statement
+              description: Tackle problems that have real-life impact!
+              url: /problem-statement/
             - title: Hackathon Timeline
               description: One week of hacking and learning!
               url: /timeline/
@@ -25,31 +25,31 @@ sections:
               
     - infobar:
         title: Prizes
-        subtitle: Every member of the winning team will each receive one of the stated item unless stated otherwise.
-        description: Stand a chance to win iPads and more!
+        subtitle: Stand a chance to win iPads and more!
+        description: Every member of the winning team will each receive one of the stated item unless stated otherwise.
         button: See More
         url: /prizes/
     - infobar:
-        title: Speakers
+        title: Speakers and Judges
         subtitle:  # Nothing much to put here
         description: You'll have the chance to learn from our guest speakers!
-        button: Speakers
-        url: /speakers/
-    - infobar:
-        title: Workshops
-        subtitle:  # Nothing much to put here
-        description: Our sponsors - TBC
         button: See More
         url: /speakers/
     - infobar:
+        title: Workshops
+        subtitle: # Nothing much to put here
+        description: Workshops to learn!
+        button: See More
+        url: /workshops/
+    - infobar:
         title: Sponsors
         subtitle:  # Nothing much to put here
-        description: Our sponsors - TBC
+        description: Our sponsors (GovTech)
         button: See More
         url: /speakers/
     - infobar:
         title: Timeline
-        subtitle: cross-ref Proposal 4.0 doc
+        subtitle: Cross-ref `Proposal 4.0` doc
         description: Hackathon Timeline
         button: Timeline
         url: /timeline/

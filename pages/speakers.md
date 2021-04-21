@@ -1,9 +1,9 @@
 ---
-title: Speakers
+title: Speakers and Judges
 permalink: /speakers
 ---
 
-### **Speakers**
+### **Speakers and Judges**
 
 ![Speaker 1](/images/test.jpg "Sample Speaker")
 This is one of our speakers. He will never give you up.
