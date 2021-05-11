@@ -13,7 +13,7 @@ Code Fiesta 2021 offers opportunities for you to learn from both workshops and o
 All startups begin with an idea - for some, the idea pops out of nowhere, and yet others spend substantial periods of time testing out the idea before finalising it.
 <br>In this workshop, hear from startup founders who have launched their businesses and how the ideation process began for them. What kind of market research is necessary? Does the idea come first or the solution or is it a happy coincidence?
 
-*Friday 25 June | 1915*
+*Friday 25 June, 1915*
 
 #### Workshop 2 : Deep dive into GovTech’s product creation process - Design Thinking 
 *Speakers: Dominic Chan*
@@ -24,7 +24,7 @@ How did GovTech design the LifeSG app before launch? Design thinking is a buzzwo
 <br>This session covers user empathy, ideation, solution, testing and the iterative process that occurs before launching a product.
 The speakers will also speak about differences when targeting different user profiles, ranging from individuals to corporates and government agencies.
 
-*Friday 25 June | 2000*
+*Friday 25 June, 2000*
 
 #### Workshop 3 : Introduction to Data Science and AI  
 *Speakers: Alvina Goh (Deputy Director, Data Science and Artificial Intelligence, GovTech)*
@@ -34,7 +34,7 @@ Due to popular demand, we are hosting an introductory lecture into data science,
 
 The session will be interactive, and participants may submit questions on Mentimeter[link] beforehand.
 
-*Monday 28 June | 2000*
+*Monday 28 June, 2000*
 
 #### Workshop 4 : Live demo into Cybersecurity
 *Speakers: TBC*
@@ -42,7 +42,7 @@ The session will be interactive, and participants may submit questions on Mentim
 <!-- TODO confirm speakers -->
 What does a GovTech cybersecurity engineer do on a daily basis? Join us for this live demo where you see first-hand what goes on behind the scenes, and then meet the engineers who will share their experiences building a career in cybersecurity.
 
-*Tuesday 29 June | 2000*
+*Tuesday 29 June, 2000*
 
 #### Workshop 5 : App Development
 TBC
@@ -55,4 +55,4 @@ In times of virtual events, this is the equivalent of enjoying a warm cup of cof
 
 Participants may post their questions beforehand, panelists will post answers in the timeframe below.
 
-*Thursday 1 July | 2000*
+*Thursday 1 July, 2000*
