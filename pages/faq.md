@@ -15,7 +15,7 @@ permalink: /faq/
 - You may only participate with an idea that you have not worked on before. Existing idea(s) or project(s) that are already made available in the market will be disqualified.
 
 4. <b style="color:Tomato">What do I need  for the competition?</b>
-- Minimally, each participant will need a working laptop for the event. 
+- Minimally, each participant will need a working laptop with an Internet connection for the event. 
 
 
 ### **Eligibility**
