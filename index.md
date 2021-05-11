@@ -7,11 +7,11 @@ permalink: /
 notification: Signups close _DATE_!
 sections:
     - hero:
-        title: <b style="color:#4451b1">Code Fiesta 2021</b>
-        subtitle: <b style="color:#4451b1">A hackathon in collaboration with GovTech Singapore from 25 June to 4 July</b>
+        # title: <b style="color:#4451b1">Code Fiesta 2021</b>
+        # subtitle: <b style="color:#4451b1"> from 25 June to 4 July</b>
         background: /images/code_fiesta_logo.jpg
-        button: Sign up now!
-        url: /sign-up/
+        # button: Sign up now!
+        # url: /sign-up/
         key_highlights:
             - title: Problem Statement
               description: Tackle problems that have real-life impact!
@@ -24,9 +24,10 @@ sections:
               url: /faq/
 
     - infobar:
-        title: Problem Statement
-        description: You will have the chance to solve problems with real-world impact to Singaporeans!
-        button: See More
+        title: Code Fiesta 2021
+        subtitle: A hackathon in collaboration with GovTech Singapore
+        description: Interested in Tech for Public Good?<br>Code Fiesta 2021 will be held virtually from 25 June and 4 July<br>You will have the chance to solve problems with real-world impact to Singaporeans!
+        button: Problem Statement
         url: /problem-statement/
     
     - infobar:
