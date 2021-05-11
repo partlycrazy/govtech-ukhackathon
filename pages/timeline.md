@@ -1,19 +1,11 @@
 ---
 title: Timeline
 permalink: /timeline
-
-sections:
-    - infobar:
-        title: Fri 18 June
-        subtitle: HHMM
-        description: Hackathon Begins
-    - infobar:
-        title: Sun 20 June
-        subtitle: 2359
-        description: Submission of prototype
 ---
 
 ### **Timeline**
+
+<!--  -->
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
