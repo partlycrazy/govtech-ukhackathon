@@ -5,7 +5,7 @@ permalink: /prizes
 
 ### **Prizes**
 
-Unless otherwise stated, prizes will be awarded to each member of the team.
+Unless otherwise stated, one of each prize will be awarded to each member of the team.
 
 **First Prize**
 ![first-prize](images/trophy_1st.svg)
@@ -19,4 +19,4 @@ Unless otherwise stated, prizes will be awarded to each member of the team.
 
 In addition, suitable ideas will be used in real-life applications to help other Singaporeans!
 
-*<div>Icons used made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>*
+*Icons used made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>*

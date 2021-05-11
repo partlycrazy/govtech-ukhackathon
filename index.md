@@ -7,8 +7,8 @@ permalink: /
 notification: Signups close _DATE_!
 sections:
     - hero:
-        title: Code Fiesta 2021
-        subtitle: A hackathon in collaboration with GovTech Singapore
+        title: <b style="color:#4451b1">Code Fiesta 2021</b>
+        subtitle: <b style="color:#4451b1">A hackathon in collaboration with GovTech Singapore from 25 June to 4 July</b>
         background: /images/code_fiesta_logo.jpg
         button: Sign up now!
         url: /sign-up/
@@ -42,29 +42,26 @@ sections:
     
     - infobar:
         title: Workshops
-        subtitle: # Nothing much to put here
         description: Learn more here!
         button: See More
         url: /workshops/
 
     - infobar:
         title: Prizes
-        subtitle: 
         description: Stand a chance to win iPads and more!<br>Every member of the winning team will receive one item each, unless stated otherwise.
         button: See More
         url: /prizes/
 
     - infobar:
         title: Timeline
-        subtitle: Cross-ref `Proposal 4.0` doc
-        description: Hackathon Timeline
+        description: The hackathon will be held from 25 June to 4 July 2021. Click here for more details.
         button: Timeline
         url: /timeline/
 
     - infobar:
         title: FAQs
         subtitle: 
-        description: All your questions
+        description: Your questions answered here
         button: Read Me
         url: /faq/
 
@@ -81,6 +78,7 @@ sections:
         button: Learn More
         url: https://www.tech.gov.sg/
         image: /images/govtech_logo.gif
+        alt: Govtech Singapore Logo gif File
     # TODO is there something cooler to name this section?    
 
 
