@@ -7,8 +7,8 @@ permalink: /
 notification: Signups close _DATE_!
 sections:
     - hero:
-        title: <b style="color:Gray">Code Fiesta 2021</b>
-        subtitle: <b style="color:Gray">A hackathon in collaboration with GovTech Singapore</b>
+        title: Code Fiesta 2021
+        subtitle: A hackathon in collaboration with GovTech Singapore
         background: /images/code_fiesta_logo.jpg
         button: Sign up now!
         url: /sign-up/
@@ -23,20 +23,6 @@ sections:
               description: Read Me!
               url: /faq/
 
-    # Infobars: --
-    # Title: Large text
-    # Subtitle: Block caps text placed above the Title
-    # Description: Normal text placed below the Title
-    # Optional link below (url field)
-
-    # Infopics: --
-    # title:
-    # subtitle:
-    # description:
-    # button, url:
-    # image:
-
-
     - infobar:
         title: Problem Statement
         description: You will have the chance to solve problems with real-world impact to Singaporeans!
@@ -45,8 +31,7 @@ sections:
     
     - infobar:
         title: Hackathon Eligibility
-        description: This hackathon is open to __.
-        Groups of __ are encouraged to join. If you do not have a group, fret not. Channels will be provided for you to team up with other like-minded hackers!
+        description: This hackathon is open to __.<br>Groups of __ are encouraged to join. If you do not have a group, fret not. Channels will be provided for you to team up with other like-minded hackers!
         # TODO
 
     - infobar:
@@ -104,6 +89,20 @@ sections:
     #     title: Media
     #     subtitle: Learn more
     #     button: View More
+
+
+    # Infobars: --
+    # Title: Large text
+    # Subtitle: Block caps text placed above the Title
+    # Description: Normal text placed below the Title
+    # Optional link below (url field)
+
+    # Infopics: --
+    # title:
+    # subtitle:
+    # description:
+    # button, url:
+    # image:
 ---
 
 <!-- Multiple infobar sections are allowed -->
