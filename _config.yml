@@ -23,6 +23,8 @@ colors:
 
 
 collections:
+  content:
+    output: true
   example-collection:
     output: true
 resources_name: example-resource
