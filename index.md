@@ -16,20 +16,20 @@ sections:
         key_highlights:
             - title: Problem Statement
               description: Tackle problems that have real-life impact!
-              url: /problem-statement/
+              url: /content/problem-statement/
             - title: Hackathon Timeline
               description: One week of hacking and learning!
-              url: /timeline/
+              url: /content/timeline/
             - title: FAQ
               description: Read Me!
-              url: /faq/
+              url: /content/faq/
 
     - infobar:
         title: Code Fiesta 2021
         subtitle: A hackathon in collaboration with GovTech Singapore
         description: Interested in Tech for Public Good?<br>Code Fiesta 2021 will be held virtually from 25 June and 4 July.<br>You will have the chance to solve problems with real-world impact to Singaporeans!
         button: Problem Statement
-        url: /problem-statement/
+        url: /content/problem-statement/
     
     - infobar:
         title: Hackathon Eligibility
@@ -40,39 +40,39 @@ sections:
         title: Speakers and Judges
         description: You will have the chance to learn from our guest speakers!
         button: See More
-        url: /speakers/
+        url: /content/speakers/
     
     - infobar:
         title: Workshops
         description: Learn more here!
         button: See More
-        url: /workshops/
+        url: /content/workshops/
 
     - infobar:
         title: Prizes
         description: Stand a chance to win iPads and more!<br>Every member of the winning team will receive one item each, unless stated otherwise.
         button: See More
-        url: /prizes/
+        url: /content/prizes/
 
     - infobar:
         title: Timeline
         description: The hackathon will be held from 25 June to 4 July 2021. Click here for more details.
         button: Timeline
-        url: /timeline/
+        url: /content/timeline/
 
     - infobar:
         title: FAQs
         subtitle: 
         description: Your questions answered here
         button: Read Me
-        url: /faq/
+        url: /content/faq/
 
     - infobar:
         title: Signups
         subtitle:
         description: What are you waiting for? Sign up now!
         button: Signup
-        url: /sign-up/
+        url: /content/sign-up/
 
     - infopic:
         title: Sponsor
