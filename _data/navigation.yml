@@ -7,18 +7,18 @@
 logo: /images/code_fiesta_icon.jpg
 
 links:
-  - title: Timeline
-    url: /content/timeline/
-  - title: Problem Statements
+  - title: Problem Statement
     url: /content/problem-statement/
-  - title: Workshops
-    url: /content/workshops/
   - title: Speakers & Judges
     url: /content/speakers/
-  - title: Prizes
-    url: /content/prizes/
+  - title: Workshops
+    url: /content/workshops/
+  - title: Timeline
+    url: /content/timeline/
   - title: FAQs
     url: /content/faq/
+  - title: Prizes
+    url: /content/prizes/
   - title: Signup
     url: /content/sign-up/
   - title: Contact Us
