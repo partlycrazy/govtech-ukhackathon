@@ -11,8 +11,8 @@ sections:
         # subtitle: <b style="color:#4451b1"> from 25 June to 4 July</b>
         # Wonder if it isn't auto-darkened? Or can perhaps be a dark mode logo
         background: /images/code_fiesta_logo.jpg
-        # button: Sign up now!
-        # url: /sign-up/
+        button: Learn More
+        url: /content/problem-statement/
         key_highlights:
             - title: Problem Statement
               description: Tackle problems that have real-life impact!
