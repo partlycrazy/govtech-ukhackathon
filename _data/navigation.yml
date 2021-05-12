@@ -7,22 +7,22 @@
 logo: /images/code_fiesta_icon.jpg
 
 links:
-  - title: Hackathon Timeline
-    url: /timeline/
+  - title: Timeline
+    url: /content/timeline/
   - title: Problem Statements
-    url: /problem-statement/
+    url: /content/problem-statement/
   - title: Workshops
-    url: /workshops/
+    url: /content/workshops/
   - title: Speakers & Judges
-    url: /speakers/
+    url: /content/speakers/
   - title: Prizes
-    url: /prizes/
+    url: /content/prizes/
   - title: FAQs
-    url: /faq/
+    url: /content/faq/
   - title: Signup
-    url: /sign-up/
+    url: /content/sign-up/
   - title: Contact Us
-    url: /contact-us/
+    url: /content/contact-us/
 
   # - title: Example Collection
   #   collection: example-collection
