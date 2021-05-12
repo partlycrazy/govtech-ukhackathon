@@ -25,8 +25,6 @@ colors:
 collections:
   content:
     output: true
-  example-collection:
-    output: true
 resources_name: example-resource
 
 description: Info homepage for the 2021 iteration of the Code Fiesta Hackathon organised in collaboration with GovTech Singapore
