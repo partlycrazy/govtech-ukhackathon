@@ -4,7 +4,7 @@ title: Code Fiesta 2021
 description: Code Fiesta is a hackathon organised in collaboration with GovTech Singapore.
 image: /images/code_fiesta_icon.jpg
 permalink: /
-notification: Signups close _DATE_! # TODO
+notification: Signups close Sunday 20 June! # TODO
 sections:
     - hero:
         title: <b style="color:\#4451b1 text-shadow:2px 2px 4px \#000000">Code Fiesta 2021</b>
