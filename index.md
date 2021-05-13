@@ -32,6 +32,15 @@ sections:
         button: Find out More
         url: /content/problem-statement/
 
+    - infopic:
+        title: Sponsor
+        description: This hackathon is sponsored by and organised in collaboration with Govtech Singapore.
+        button: Learn More
+        url: https://www.tech.gov.sg/
+        image: /images/govtech_logo.gif
+        alt: Govtech Singapore Logo gif File
+---
+
 #     - infobar:
 #         title: Hackathon Eligibility
 #         description: This hackathon is open to __.<br>Groups of __ are encouraged to join. If you do not have a group, fret not. Channels will be provided for you to team up with other like-minded hackers!
@@ -75,13 +84,6 @@ sections:
 #         button: Signup
 #         url: /content/sign-up/
 
-    - infopic:
-        title: Sponsor
-        description: This hackathon is sponsored by and organised in collaboration with Govtech Singapore.
-        button: Learn More
-        url: https://www.tech.gov.sg/
-        image: /images/govtech_logo.gif
-        alt: Govtech Singapore Logo gif File
 
     # TODO is there something cooler to name this section?    
 
@@ -105,6 +107,5 @@ sections:
     # description:
     # button, url:
     # image:
----
 
 <!-- Multiple infobar sections are allowed -->
