@@ -8,23 +8,23 @@ logo: /images/code_fiesta_icon.jpg
 
 links:
   - title: 2021
-    collection: year_2021
-  - title: Problem Statement
-    url: /content/problem-statement/
-  - title: Speakers & Judges
-    url: /content/speakers/
-  - title: Workshops
-    url: /content/workshops/
-  - title: Timeline
-    url: /content/timeline/
-  - title: FAQs
-    url: /content/faq/
-  - title: Prizes
-    url: /content/prizes/
-  - title: Signup
-    url: /content/sign-up/
-  - title: Contact Us
-    url: /content/contact-us/
+    collection: 2021
+  # - title: Problem Statement
+  #   url: /content/problem-statement/
+  # - title: Speakers & Judges
+  #   url: /content/speakers/
+  # - title: Workshops
+  #   url: /content/workshops/
+  # - title: Timeline
+  #   url: /content/timeline/
+  # - title: FAQs
+  #   url: /content/faq/
+  # - title: Prizes
+  #   url: /content/prizes/
+  # - title: Signup
+  #   url: /content/sign-up/
+  # - title: Contact Us
+  #   url: /content/contact-us/
 
   # - title: Example Collection
   #   collection: example-collection
