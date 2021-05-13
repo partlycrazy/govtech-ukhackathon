@@ -7,6 +7,8 @@
 logo: /images/code_fiesta_icon.jpg
 
 links:
+  - title: 2021
+    collection: year_2021
   - title: Problem Statement
     url: /content/problem-statement/
   - title: Speakers & Judges

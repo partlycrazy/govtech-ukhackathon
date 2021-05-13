@@ -23,7 +23,7 @@ colors:
 
 
 collections:
-  content:
+  year_2021:
     output: true
 resources_name: example-resource
 

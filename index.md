@@ -7,7 +7,8 @@ permalink: /
 notification: Signups close Sunday 20 June! # TODO
 sections:
     - hero:
-        title: <b style="color:\#4451b1 text-shadow:2px 2px 4px \#000000">Code Fiesta 2021</b>
+        title: <b style="text-shadow:2px 2px 4px 000000">Code Fiesta 2021</b>
+        subtitle: A hackathon organised in collaboration with Govtech Singapore from 25 June to 4 July
         # subtitle: <b style="color:#4451b1"> from 25 June to 4 July</b>
         # Wonder if it isn't auto-darkened? Or can perhaps be a dark mode logo
         background: /images/code_fiesta_logo.jpg
