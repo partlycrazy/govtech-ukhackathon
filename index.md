@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Code Fiesta 2021
+title: Code Fiesta
 description: Code Fiesta is a hackathon organised in collaboration with GovTech Singapore.
 image: /images/code_fiesta_icon.jpg
 permalink: /
