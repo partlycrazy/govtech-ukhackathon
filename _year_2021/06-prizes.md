@@ -10,7 +10,7 @@ Unless otherwise stated, one of each prize will be awarded to each member of the
 **First Prize**
 ![first-prize](images/trophy_1st.svg)
 ![ipad-air](images/ipad_air.png)
-<img src="images/ipad_air.png" alt="ipad-air" width="200"/>
+<img src="images/ipad_air.png" alt="ipad-air" width="10"/>
 - iPad Air 4
 
 **Second Prize**
