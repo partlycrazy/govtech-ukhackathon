@@ -8,8 +8,7 @@ notification: Signups close Sunday 20 June! # TODO
 sections:
     - hero:
         title: <b style="text-shadow:2px 2px 4px black">Code Fiesta 2021</b>
-        subtitle: A hackathon organised in collaboration with Govtech Singapore from 25 June to 4 July
-        # subtitle: <b style="color:#4451b1"> from 25 June to 4 July</b>
+        subtitle: <b style="text-shadow:1px 1px 2px black">A hackathon organised in collaboration with Govtech Singapore from 25 June to 4 July</b>
         # Wonder if it isn't auto-darkened? Or can perhaps be a dark mode logo
         background: /images/code_fiesta_logo.jpg
         button: Learn More
@@ -41,6 +40,7 @@ sections:
         alt: Govtech Singapore Logo gif File
 ---
 
+<!--
 #     - infobar:
 #         title: Hackathon Eligibility
 #         description: This hackathon is open to __.<br>Groups of __ are encouraged to join. If you do not have a group, fret not. Channels will be provided for you to team up with other like-minded hackers!
@@ -85,27 +85,27 @@ sections:
 #         url: /content/sign-up/
 
 
-    # TODO is there something cooler to name this section?    
+# TODO is there something cooler to name this section?    
 
 
-    # - resources:
-    # We are not using the resource room feature. However, future iterations of planners can use this area to put links from social media, previous good reviews, etc...
-    #     title: Media
-    #     subtitle: Learn more
-    #     button: View More
+# - resources:
+# We are not using the resource room feature. However, future iterations of planners can use this area to put links from social media, previous good reviews, etc...
+#     title: Media
+#     subtitle: Learn more
+#     button: View More
 
 
-    # Infobars: --
-    # Title: Large text
-    # Subtitle: Block caps text placed above the Title
-    # Description: Normal text placed below the Title
-    # Optional link below (url field)
+# Infobars: --
+# Title: Large text
+# Subtitle: Block caps text placed above the Title
+# Description: Normal text placed below the Title
+# Optional link below (url field)
 
-    # Infopics: --
-    # title:
-    # subtitle:
-    # description:
-    # button, url:
-    # image:
+# Infopics: --
+# title:
+# subtitle:
+# description:
+# button, url:
+# image:
 
-<!-- Multiple infobar sections are allowed -->
+-->

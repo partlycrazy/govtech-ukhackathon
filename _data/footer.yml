@@ -1,6 +1,9 @@
-contact_us: /contact-us/
+contact_us: /content/contact-us/
+navlinks:
+  - title: 2021
+    collection: year_2021
 show_reach: false
-faq: /faq/
+faq: /content/faq/
 social_media:
     # facebook: https://www.facebook.com/YourFBPage
     # twitter: https://www.twitter.com/YourTwitter
