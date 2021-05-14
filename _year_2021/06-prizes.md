@@ -8,7 +8,7 @@ permalink: /content/prizes
 Unless otherwise stated, one of each prize will be awarded to each member of the team.
 
 **First Prize**
-![first-prize](images/trophy_1st.svg)
+![first-prize](images/trophy_1st.svg){ background-size: 800px 600px; }
 ![ipad-air](images/ipad_air.png)
 - iPad Air 4
 
