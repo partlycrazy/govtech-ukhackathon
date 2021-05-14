@@ -21,4 +21,4 @@ Unless otherwise stated, one of each prize will be awarded to each member of the
 
 ##### In addition, suitable ideas will be used in real-life applications to help other Singaporeans!
 
-*Icons used made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>*
+<!-- *Icons used made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>* -->
