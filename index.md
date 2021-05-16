@@ -15,12 +15,12 @@ sections:
         url: /content/about/
         key_highlights:
             - title: Hackathon Timeline
-              description: One week of hacking and learning!
+              description: See the exciting line-up for the event!
               url: /content/timeline/
             - title: Sign Up Now
               url: /content/sign-up/
             - title: FAQ
-              description: Read Me!
+              description: If you want to ask anything, check here first!
               url: /content/faq/
 
     - infobar:
