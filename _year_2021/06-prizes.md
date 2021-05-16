@@ -19,6 +19,10 @@ Unless otherwise stated, one of each prize will be awarded to each member of the
 <!-- ![second-prize](images/trophy_2nd.svg) -->
 ![apple-watch](images/apple_watch.jpg)
 
-##### In addition, suitable ideas will be used in real-life applications to help other Singaporeans!
+We have a pub quiz segment on the last day, and the top 3 winners of the pub quiz will receive “swag packs”.
 
-<!-- *Icons used made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>* -->
+All participants in the challenge will receive a certificate for taking part in the event.
+
+There is a shortlisting stage after the weekend hackathon, where we select the shortlisted teams to make final presentations. We will share the assessment rubric for evaluating submissions closer to the event date.
+
+On 4 July 2021, the shortlisted finalists will provide a short presentation (about 8 mins, with 2 mins of Q&A). We will share the assessment rubric for evaluating presentations closer to the event date.
