@@ -2,8 +2,6 @@ contact_us: /content/contact-us/
 navlinks:
   - title: About CodeFiesta
     url: /content/about/
-  - title: Speakers & Judges
-    url: /content/speakers/
   - title: Workshops
     url: /content/workshops/
   - title: Timeline
@@ -12,8 +10,6 @@ navlinks:
     url: /content/faq/
   - title: Prizes
     url: /content/prizes/
-  - title: Signup
-    url: /content/sign-up/
   - title: Contact Us
     url: /content/contact-us/
 show_reach: false

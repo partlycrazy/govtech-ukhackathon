@@ -9,11 +9,11 @@ logo: /images/code_fiesta_icon.jpg
 links:
   - title: 2021
     collection: year_2021
+  - title: Sign-ups
+    url: https://go.gov.sg/codefiesta2021
 
   # - title: About CodeFiesta
   #   url: /content/about/
-  # - title: Speakers & Judges
-  #   url: /content/speakers/
   # - title: Workshops
   #   url: /content/workshops/
   # - title: Timeline
@@ -22,8 +22,6 @@ links:
   #   url: /content/faq/
   # - title: Prizes
   #   url: /content/prizes/
-  # - title: Signup
-  #   url: /content/sign-up/
   # - title: Contact Us
   #   url: /content/contact-us/
 
