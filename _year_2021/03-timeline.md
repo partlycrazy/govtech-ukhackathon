@@ -118,7 +118,7 @@ permalink: /content/timeline
 </thead>
 </table>
 
-Click for more info about the [speakers](/content/speakers) and [workshops](/content/workshops).
+Click for more info about the [workshops](/content/workshops).
 
 <!-- Table (for now)
 have to figure out how to make a nice table in Isomer
