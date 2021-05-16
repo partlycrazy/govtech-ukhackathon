@@ -15,6 +15,7 @@ permalink: /content/timeline
 .tg .tg-yj5y{background-color:#efefef;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-v0hj{background-color:#efefef;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-kaq8{border-color:inherit;color:#fe0000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dwmg{border-color:#000000;color:#fe0000;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
@@ -22,141 +23,106 @@ permalink: /content/timeline
 <table class="tg">
 <thead>
   <tr>
+    <th class="tg-0lax" rowspan="18"></th>
     <th class="tg-0lax"></th>
     <th class="tg-0lax"></th>
     <th class="tg-0lax"></th>
     <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
+    <th class="tg-0lax" rowspan="18"></th>
   </tr>
-</thead>
-<tbody>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-yj5y"><span style="font-weight:bold">Day</span></td>
     <td class="tg-v0hj">Date</td>
     <td class="tg-v0hj">Time (SGT)</td>
     <td class="tg-v0hj">Activity</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow" rowspan="3">1</td>
     <td class="tg-0pky" rowspan="3">Fri 25 June</td>
     <td class="tg-0pky">1830</td>
     <td class="tg-0pky">Opening Address, release of Challenge Statements</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0pky">1915-2000</td>
     <td class="tg-0pky"><span style="font-weight:bold">Workshop 1:</span> Ideation - Sink or Swim?</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0pky">2000-2100</td>
     <td class="tg-0pky"><span style="font-weight:bold">Workshop 2:</span> Deep-dive into Govtech's product creation process</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow">2</td>
     <td class="tg-0pky">Sat 26 June</td>
     <td class="tg-0pky" rowspan="2">All Day</td>
     <td class="tg-0pky" rowspan="2">Mentors are available to book for drop-in consultation sessions</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow" rowspan="2">3</td>
     <td class="tg-0pky" rowspan="2">Sun 27 June</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-kaq8">2359</td>
-    <td class="tg-kaq8">Deadline for Prototype Submission</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-dwmg">Deadline for Prototype Submission</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow">4</td>
     <td class="tg-0pky">Mon 28 June</td>
     <td class="tg-0pky">2000</td>
     <td class="tg-0pky"><span style="font-weight:bold">Workshop 3: </span>Introduction to Data Science and AI</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow">5</td>
     <td class="tg-0pky">Tue 29 June</td>
     <td class="tg-0pky">2000</td>
     <td class="tg-0pky"><span style="font-weight:bold">Workshop 4:</span> Cybersecurity - a practical introduction</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow">6</td>
     <td class="tg-0pky">Wed 30 June</td>
     <td class="tg-0pky">2000</td>
     <td class="tg-0pky"><span style="font-weight:bold">Workshop 5:</span><span style="font-weight:normal"> Mentor feedback on prototype, release of results</span></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow">7</td>
     <td class="tg-0pky">Thur 1 July</td>
     <td class="tg-0pky">2000</td>
     <td class="tg-0pky">Reddit AMA Session with GovTech Tech Associates</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow">8</td>
     <td class="tg-0pky">Fri 2 July</td>
     <td class="tg-0pky">All Day</td>
     <td class="tg-0pky">Code Siesta - take a well-deserved break!</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow">9</td>
     <td class="tg-0pky">Sat 3 July</td>
-    <td class="tg-kaq8">2359</td>
-    <td class="tg-kaq8">Final Prototype Submssion</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-dwmg">2359</td>
+    <td class="tg-dwmg">Final Prototype Submssion</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-c3ow" rowspan="3">10</td>
     <td class="tg-0pky" rowspan="3">Sun 4 July</td>
     <td class="tg-0pky">1400</td>
     <td class="tg-0pky">Final Presentations</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0pky">1500</td>
     <td class="tg-0pky">Pub Quiz</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
     <td class="tg-0pky">1545</td>
     <td class="tg-0pky">Closing Address and Prize Presentation</td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
   </tr>
-</tbody>
+</thead>
 </table>
+
 Click for more info about the [speakers](/content/speakers) and [workshops](/content/workshops).
 
 <!-- Table (for now)
