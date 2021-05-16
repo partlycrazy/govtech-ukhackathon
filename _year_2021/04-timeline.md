@@ -16,18 +16,14 @@ permalink: /content/timeline
 .tg .tg-dwmg{border-color:#000000;color:#fe0000;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-fm1b{background-color:#efefef;border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky" rowspan="18"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky" rowspan="18"></th>
+    <th class="tg-73oq" rowspan="18"></th>
+    <th class="tg-73oq" colspan="4"></th>
+    <th class="tg-73oq" rowspan="18"></th>
   </tr>
   <tr>
     <td class="tg-j4pq"><span style="font-weight:bold">Day</span></td>
@@ -114,10 +110,10 @@ permalink: /content/timeline
     <td class="tg-73oq">Closing Address and Prize Presentation</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
 </thead>
 </table>
