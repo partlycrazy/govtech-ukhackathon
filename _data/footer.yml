@@ -1,7 +1,21 @@
 contact_us: /content/contact-us/
 navlinks:
-  - title: 2021
-    collection: year_2021
+  - title: About CodeFiesta
+    url: /content/about/
+  - title: Speakers & Judges
+    url: /content/speakers/
+  - title: Workshops
+    url: /content/workshops/
+  - title: Timeline
+    url: /content/timeline/
+  - title: FAQs
+    url: /content/faq/
+  - title: Prizes
+    url: /content/prizes/
+  - title: Signup
+    url: /content/sign-up/
+  - title: Contact Us
+    url: /content/contact-us/
 show_reach: false
 faq: /content/faq/
 social_media:
