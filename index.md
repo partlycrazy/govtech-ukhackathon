@@ -1,43 +1,34 @@
 ---
 layout: homepage
-title: Code Fiesta
-description: Code Fiesta is a hackathon organised in collaboration with GovTech Singapore.
+title: CodeFiesta
+description: CodeFiesta is a hackathon organised in collaboration with GovTech Singapore.
 image: /images/code_fiesta_icon.jpg
 permalink: /
-notification: Signups close Sunday 20 June! # TODO
+notification: Signups close Sunday 20 June 2021 - sign up [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)!  # TODO
 sections:
     - hero:
-        title: <b style="text-shadow:2px 2px 4px black">Code Fiesta 2021</b>
-        subtitle: <b style="text-shadow:1px 1px 2px black">A hackathon organised in collaboration with Govtech Singapore from 25 June to 4 July</b>
+        title: <b style="text-shadow:2px 2px 4px black">CodeFiesta 2021</b>
+        subtitle: <b style="text-shadow:1px 1px 2px black">A hackathon organised in collaboration with Govtech Singapore</b>
         # Wonder if it isn't auto-darkened? Or can perhaps be a dark mode logo
         background: /images/code_fiesta_logo.jpg
         button: Learn More
-        url: /content/problem-statement/
+        url: /content/about/
         key_highlights:
-            - title: Problem Statement
-              description: Tackle problems that have real-life impact!
-              url: /content/problem-statement/
             - title: Hackathon Timeline
               description: One week of hacking and learning!
               url: /content/timeline/
+            - title: Sign Up Now
+              url: /content/sign-up/
             - title: FAQ
               description: Read Me!
               url: /content/faq/
 
     - infobar:
-        title: Code Fiesta 2021
+        title: CodeFiesta 2021
         subtitle: A hackathon in collaboration with GovTech Singapore
-        description: Interested in Tech for Public Good?<br>Code Fiesta 2021 will be held virtually from 25 June and 4 July.<br>You will have the chance to solve problems with real-world impact to Singaporeans!
+        description: Interested in Tech for Public Good?<br>CodeFiesta 2021 will be held virtually from 25 June and 4 July 2021.<br>Join now to take part in the only hackathon in Singapore focused on solving challenges impacting citizens and residents of Singapore!
         button: Find out More
-        url: /content/problem-statement/
-
-    - infopic:
-        title: Sponsor
-        description: This hackathon is sponsored by and organised in collaboration with Govtech Singapore.
-        button: Learn More
-        url: https://www.tech.gov.sg/
-        image: /images/govtech_logo.gif
-        alt: Govtech Singapore Logo gif File
+        url: /content/about/
 ---
 
 <!--
