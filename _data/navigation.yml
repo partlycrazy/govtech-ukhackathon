@@ -7,25 +7,24 @@
 logo: /images/code_fiesta_icon.jpg
 
 links:
-  - title: 2021
-    collection: year_2021
+  # - title: 2021
+  #   collection: year_2021
+  # In the future, one can use this "collection" to easily group all of 2021's pages into a single drop-down menu.
+
+  - title: About CodeFiesta
+    url: /content/about/
+  - title: Workshops
+    url: /content/workshops/
+  - title: Timeline
+    url: /content/timeline/
+  - title: FAQs
+    url: /content/faq/
+  - title: Prizes
+    url: /content/prizes/
+  - title: Contact Us
+    url: /content/contact-us/
   - title: Sign-ups
     url: https://go.gov.sg/codefiesta2021
 
-  # - title: About CodeFiesta
-  #   url: /content/about/
-  # - title: Workshops
-  #   url: /content/workshops/
-  # - title: Timeline
-  #   url: /content/timeline/
-  # - title: FAQs
-  #   url: /content/faq/
-  # - title: Prizes
-  #   url: /content/prizes/
-  # - title: Contact Us
-  #   url: /content/contact-us/
-
-  # - title: Example Collection
-  #   collection: example-collection
   # - title: Example Resource
   #   resource_room: true
