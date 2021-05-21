@@ -27,7 +27,7 @@ collections:
     output: true
 resources_name: example-resource
 
-description: Info homepage for the 2021 iteration of the Code Fiesta Hackathon organised in collaboration with GovTech Singapore
+description: Info homepage for the 2021 iteration of the CodeFiesta Hackathon.
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
