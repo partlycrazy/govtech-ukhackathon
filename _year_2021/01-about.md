@@ -3,7 +3,7 @@ title: About CodeFiesta
 permalink: /content/about
 ---
 #### **What is CodeFiesta?**
-CodeFiesta 2021 is an online competition organised by a student organising committee in collaboration with GovTech Singapore. As part of our ongoing efforts to encourage students to explore careers in technology, this competition will be based on real-life problem statements and is open to all students (see our eligibility criteria in [FAQ](/content/faq/)!
+CodeFiesta 2021 is an online competition organised by a student organising committee in collaboration with GovTech Singapore. As part of our ongoing efforts to encourage students to explore careers in technology, this competition will be based on real-life problem statements and is open to all students (see our eligibility criteria in [FAQ](/content/faq/))!
 
 The event will feature a challenge based on the tech for public good mission, as well as a series of workshops and events aimed at helping students increase their practical knowledge of tech domain areas.
 
