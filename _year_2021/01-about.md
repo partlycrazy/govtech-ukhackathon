@@ -16,7 +16,7 @@ The challenge is mainly compressed into the first weekend of the event. Particip
 
 Teams should submit their prototypes by Sunday 27th June, and shortlisted teams will present the following weekend (Sunday 4th July).
 
-Based on popular request, participants are also able to join a series of workshops, including practical sessions showcasing applications of data science and cybersecurity
+Based on popular request, participants are also able to join a series of workshops, including practical sessions showcasing applications of data science and cybersecurity.
 
 #### **Challenge statements**
 The challenge statements will be released at the opening session on Friday 25th June 2021. Teams will receive a link to the session on successful registration for CodeFiesta.
