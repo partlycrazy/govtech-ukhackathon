@@ -12,6 +12,9 @@ navlinks:
     url: /content/prizes/
   - title: Contact Us
     url: /content/contact-us/
+  - title: T&Cs
+    url: /content/terms-conditions/
+
 show_reach: false
 faq: /content/faq/
 social_media:
