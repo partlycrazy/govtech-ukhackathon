@@ -63,7 +63,7 @@ permalink: /content/timeline
     <td class="tg-wp8o">4</td>
     <td class="tg-73oq">Mon 28 June</td>
     <td class="tg-73oq">2000</td>
-    <td class="tg-73oq"><a href="/content/workshops/workshop3"><span style="font-weight:bold">Workshop 3: </span>Introduction to Data Science and AI</a></td>
+    <td class="tg-73oq"><a href="/content/workshops/workshop3"><span style="font-weight:bold">Workshop 3:</span> Introduction to Data Science and AI</a></td>
   </tr>
   <tr>
     <td class="tg-wp8o">5</td>
@@ -75,7 +75,7 @@ permalink: /content/timeline
     <td class="tg-wp8o">6</td>
     <td class="tg-73oq">Wed 30 June</td>
     <td class="tg-73oq">2000</td>
-    <td class="tg-73oq"><a href="/content/workshops/workshop5"><span style="font-weight:bold">Workshop 5:</span><span style="font-weight:normal"> Mentor feedback on prototype, release of results</span></a></td>
+    <td class="tg-73oq"><a href="/content/workshops/workshop5"><span style="font-weight:bold">Workshop 5:</span> Mentor feedback on prototype, release of results</a></td>
   </tr>
   <tr>
     <td class="tg-wp8o">7</td>
