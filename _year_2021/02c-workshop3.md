@@ -1,5 +1,6 @@
 ---
-title: Workshop 3 : Introduction to Data Science and AI 
+title: >
+    Workshop 3 : Introduction to Data Science and AI 
 permalink: /content/workshops/workshop3/
 third_nav_title: Workshops
 ---

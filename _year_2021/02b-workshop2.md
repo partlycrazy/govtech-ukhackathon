@@ -1,5 +1,6 @@
 ---
-title: Workshop 2 : Deep dive into GovTech’s product creation process - Design Thinking 
+title: >
+    Workshop 2 : Deep dive into GovTech’s product creation process - Design Thinking 
 permalink: /content/workshops/workshop2/
 third_nav_title: Workshops
 ---

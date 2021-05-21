@@ -1,5 +1,6 @@
 ---
-title: Workshop 1 : Ideation - Sink or Swim?
+title: >
+    Workshop 1 : Ideation - Sink or Swim?
 permalink: /content/workshops/workshop1/
 third_nav_title: Workshops
 ---

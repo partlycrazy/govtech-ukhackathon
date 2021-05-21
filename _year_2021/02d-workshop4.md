@@ -1,5 +1,6 @@
 ---
-title: Workshop 4 : Cybersecurity - a practical introduction
+title: >
+    Workshop 4 : Cybersecurity - a practical introduction
 permalink: /content/workshops/workshop4/
 third_nav_title: Workshops
 ---
