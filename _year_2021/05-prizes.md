@@ -8,8 +8,8 @@ permalink: /content/prizes
 Unless otherwise stated, one of each prize will be awarded to each member of the team.
 
 #### **First Prize**
-- iPad Air 4
-![ipad-air](images/ipad_air.png)
+- iPad Air 4 (resized)
+![ipad-air](images/rsz_ipad_air.png)
 - “Opportunity to collaborate further with GovTech Singapore on product development of your project (where feasible)”
 - "Fast-track internship application to GovTech Singapore for team members"
 
