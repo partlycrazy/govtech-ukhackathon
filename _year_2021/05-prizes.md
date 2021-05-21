@@ -8,14 +8,14 @@ permalink: /content/prizes
 Unless otherwise stated, one of each prize will be awarded to each member of the team.
 
 #### **First Prize**
-- iPad Air 4
-- “Opportunity to collaborate further with GovTech Singapore on product development of your project (where feasible)”
-- "Fast-track internship application to GovTech Singapore for team members"
+- **iPad Air 4**
+- Opportunity to collaborate further with GovTech Singapore on product development of your project (where feasible)
+- Fast-track internship application to GovTech Singapore for team members
 
 #### **Second Prize**
-- Apple Watch SE
-- “Opportunity to collaborate further with GovTech Singapore on product development of your project (where feasible)”
-- "Fast-track internship application to GovTech Singapore for team members"
+-** Apple Watch SE**
+- Opportunity to collaborate further with GovTech Singapore on product development of your project (where feasible)
+- Fast-track internship application to GovTech Singapore for team members
 
 We have a pub quiz segment on the closing ceremony on the last day, and the top 3 winners of the pub quiz will receive “swag packs”.
 
