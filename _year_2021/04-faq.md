@@ -5,7 +5,7 @@ permalink: /content/faq/
 
 ### **FAQ**
 <b style="color:#695db1">Who is organising this event?</b>
-- CodeFiesta is organised by students for students, in collaboration with [GovTech Singapore](tech.gov.sg). GovTech Singapore is supporting CodeFiesta with speakers, judges and challenge statements as well as sponsoring the prizes. GovTech Singapore is [WAITING ONE-LINER]. [Click here](/content/contact-us) to find out more about the committee.
+- CodeFiesta is organised by students for students, in collaboration with [GovTech Singapore](https://tech.gov.sg). GovTech Singapore is supporting CodeFiesta with speakers, judges and challenge statements as well as sponsoring the prizes. GovTech Singapore is [WAITING ONE-LINER]. [Click here](/content/contact-us) to find out more about the committee.
 
 <b style="color:#695db1">How will CodeFiesta be affected given the current COVID-19 situation?</b>
 - The event will be held virtually. Registration is open for all interested individuals and will close **20 June 2021**. Do sign up now before our slots are full!
