@@ -9,19 +9,19 @@ Unless otherwise stated, one of each prize will be awarded to each member of the
 
 #### **First Prize**
 - iPad Air 4
-<!-- ![first-prize](images/trophy_1st.svg) -->
 ![ipad-air](images/ipad_air.png)
-<!-- test test -->
-<!-- <img src="images/ipad_air.png" alt="ipad-air" width="10"/> -->
+- “Opportunity to collaborate further with GovTech Singapore on product development of your project (where feasible)”
+- "Fast-track internship application to GovTech Singapore for team members"
 
 #### **Second Prize**
 - Apple Watch SE
-<!-- ![second-prize](images/trophy_2nd.svg) -->
-![apple-watch](images/apple_watch.jpg)
+![apple-watch](images/rsz_apple_watch.jpg)
+- “Opportunity to collaborate further with GovTech Singapore on product development of your project (where feasible)”
+- "Fast-track internship application to GovTech Singapore for team members"
 
-We have a pub quiz segment on the last day, and the top 3 winners of the pub quiz will receive “swag packs”.
+We have a pub quiz segment on the closing ceremony on the last day, and the top 3 winners of the pub quiz will receive “swag packs”.
 
-All participants in the challenge will receive a certificate for taking part in the event.
+All participants in the challenge will receive a certificate for taking part in the event, provided a submission is receieved before the deadline.
 
 There is a shortlisting stage after the weekend hackathon, where we select the shortlisted teams to make final presentations. We will share the assessment rubric for evaluating submissions closer to the event date.
 
