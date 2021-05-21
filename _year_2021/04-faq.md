@@ -51,7 +51,7 @@ permalink: /content/faq/
 - It’s entirely free! 
 
 <b style="color:#695db1">When are the workshops?</b>
-- For more information on the workshops, click [here](/content/workshops). For information on the timeline, click [here](/content/timeline).
+- For more information on the workshops, click [here](/content/workshops/workshop1). For information on the timeline, click [here](/content/timeline).
 
 ### **Registration**
 <b style="color:#695db1">When will registration close?</b>
