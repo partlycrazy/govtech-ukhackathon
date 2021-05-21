@@ -93,7 +93,7 @@ permalink: /content/timeline
     <td class="tg-wp8o">9</td>
     <td class="tg-73oq">Sat 3 July</td>
     <td class="tg-dwmg">2359</td>
-    <td class="tg-dwmg">Final Prototype Submssion</td>
+    <td class="tg-dwmg">Final Prototype Submission</td>
   </tr>
   <tr>
     <td class="tg-wp8o" rowspan="3">10</td>
