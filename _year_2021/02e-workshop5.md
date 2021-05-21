@@ -1,6 +1,6 @@
 ---
 title: >
-    Workshop 5 : Prototype and Mentor Feedback
+    Prototype and Mentor Feedback
 permalink: /content/workshops/workshop5/
 third_nav_title: Workshops
 ---
