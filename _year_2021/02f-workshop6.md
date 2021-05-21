@@ -1,5 +1,6 @@
 ---
-title: Workshop 6: Reddit AMA
+title: >
+    Workshop 6: Reddit AMA
 permalink: /content/workshops/workshop6/
 third_nav_title: Workshops
 ---
