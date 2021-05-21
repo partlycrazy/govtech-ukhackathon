@@ -13,7 +13,7 @@ Unless otherwise stated, one of each prize will be awarded to each member of the
 - Fast-track internship application to GovTech Singapore for team members
 
 #### **Second Prize**
--** Apple Watch SE**
+- ** Apple Watch SE**
 - Opportunity to collaborate further with GovTech Singapore on product development of your project (where feasible)
 - Fast-track internship application to GovTech Singapore for team members
 
