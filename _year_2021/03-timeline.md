@@ -39,7 +39,7 @@ permalink: /content/timeline
   </tr>
   <tr>
     <td class="tg-73oq">1915-2000</td>
-    <td class="tg-73oq"><span style="font-weight:bold">Workshop 1:</span> Ideation - Sink or Swim?</td>
+    <td class="tg-73oq">[<span style="font-weight:bold">Workshop 1:</span> Ideation - Sink or Swim?](/content/workshops/workshop1/)</td>
   </tr>
   <tr>
     <td class="tg-73oq">2000-2100</td>
