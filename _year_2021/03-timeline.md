@@ -117,19 +117,3 @@ permalink: /content/timeline
   </tr>
 </thead>
 </table>
-
-Click for more info about the [workshops](/content/workshops).
-
-<!-- Table (for now)
-have to figure out how to make a nice table in Isomer
-
-| Fri 18 June | ?       | Hackathon Begins                                   |
-|-------------|---------|----------------------------------------------------|
-| Sun 20 June | 2359    | Submission of prototype                            |
-| Mon 21 June | ?       | Judges review submissions and give feedback        |
-| Tue 22 June | ?       |                                                    |
-| Wed 23 June | 1200    | Finalists released                                 |
-| Thu 24 June |         | Mentor clinics for finalists available for booking |
-| ?           | ?       | Finalists submit refined prototypes                |
-| Sat 26 June | evening | Final presentations, prize giving                  |
--->
