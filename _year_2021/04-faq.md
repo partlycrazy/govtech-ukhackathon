@@ -36,7 +36,7 @@ permalink: /content/faq/
 - If you do not have a team of your own, we can link you up with other participants. Please indicate this when you sign up on the registration form.
 
 <b style="color:#695db1">Does the whole team need to be present virtually throughout the whole event?</b>
-- A team representative is required to be virtually present during the registration, opening and closing. The entire team is highly recommended to be present throughout the event.
+- A team representative is requried to be virtually present during the opening address. The entire team is highly recommended to be present throughout the event, particularly workshops 1 and 2 if they are taking part in the challenge. Shortlisted teams are required to be present for the final presentations.
 
 <b style="color:#695db1">How much time commitment do I need?</b>
 - CodeFiesta is held largely over weekends and evenings (Singapore time) to cater for students and internship schedules. If you want to take part in the challenge, you will need to be available for the first weekend (25 June – 27 June 2021) and (if shortlisted for the finals) for the final presentations on 4 July 2021.
