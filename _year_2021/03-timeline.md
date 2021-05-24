@@ -62,25 +62,25 @@ permalink: /content/timeline
   <tr>
     <td class="tg-wp8o">4</td>
     <td class="tg-73oq">Mon 28 June</td>
-    <td class="tg-73oq">2000</td>
+    <td class="tg-73oq">2000-2100</td>
     <td class="tg-73oq"><a href="/content/workshops/workshop3"><span style="font-weight:bold">Workshop 3:</span> Introduction to Data Science and AI</a></td>
   </tr>
   <tr>
     <td class="tg-wp8o">5</td>
     <td class="tg-73oq">Tue 29 June</td>
-    <td class="tg-73oq">2000</td>
+    <td class="tg-73oq">2000-2100</td>
     <td class="tg-73oq"><a href="/content/workshops/workshop4"><span style="font-weight:bold">Workshop 4:</span> Cybersecurity - a practical introduction</a></td>
   </tr>
   <tr>
     <td class="tg-wp8o">6</td>
     <td class="tg-73oq">Wed 30 June</td>
-    <td class="tg-73oq">2000</td>
+    <td class="tg-73oq">2000-2100</td>
     <td class="tg-73oq"><a href="/content/workshops/workshop5"><span style="font-weight:bold">Workshop 5:</span> Mentor feedback on prototype, release of results</a></td>
   </tr>
   <tr>
     <td class="tg-wp8o">7</td>
     <td class="tg-73oq">Thur 1 July</td>
-    <td class="tg-73oq">2000</td>
+    <td class="tg-73oq">2000-2100</td>
     <td class="tg-73oq"><a href="/content/workshops/workshop6">Reddit AMA Session with GovTech Tech Associates</a></td>
   </tr>
   <tr>

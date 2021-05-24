@@ -9,7 +9,7 @@ third_nav_title: Workshops
 We have a series of workshops and a Reddit session organised as part of CodeFiesta 2021 which offer opportunities to learn about specific domain areas and find out more about GovTech (psst, there might be some tips which will help you to ace your prototype submission)!
 
 ### Workshop 1 : Ideation - Sink or Swim?
-*Friday 25 June 2021, 1915hrs*<br>
+*Friday 25 June 2021, 1915-2000hrs*<br>
 *Speakers: [Feng-Yuan Liu](https://www.linkedin.com/in/feng-yuan-liu-9b09aa42/) ([Basis AI](https://basis-ai.com/)), [Joshua Wong](https://www.linkedin.com/in/jwonged/) ([Hypotenuse AI](https://www.hypotenuse.ai/))*<br>
 All startups begin with an idea - for some, the idea pops out of nowhere, and yet others spend substantial periods of time testing out the idea before finalising it.
 
