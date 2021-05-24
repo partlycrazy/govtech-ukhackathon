@@ -64,13 +64,13 @@ permalink: /content/faq/
 - You will receive a confirmation email from us on successful registration.
 
 <b style="color:#695db1">I entered my details incorrectly when filling in the registration form.</b>
-- There is no need to resubmit another registration form. Feel free to email us at codefiesta.21@gmail.com to inform us of the error and we will amend it on our end.
+- There is no need to resubmit another registration form. Feel free to email us at contact@codefiesta.sg to inform us of the error and we will amend it on our end.
 
 <b style="color:#695db1">I would like to add/ change/ remove a member. How do we do so?</b>
-- Feel free to email us at codefiesta.21@gmail.com. Please contact us well in advance of the event. We will try our best to accede to your request on a case-by-case basis.
+- Feel free to email us at contact@codefiesta.sg. Please contact us well in advance of the event. We will try our best to accede to your request on a case-by-case basis.
 
 <b style="color:#695db1">Can I register for the workshops without taking part in the competition?</b>
 - Most definitely! You would still be required to complete the registration form and indicate it [there](https://go.gov.sg/codefiesta2021).
 
 <b style="color:#695db1">What if I still have more questions?</b>
-- If your questions are not addressed in our FAQs, kindly reach out to us at codefiesta.21@gmail.com! If it is relevant to more people, we will add it in this FAQ section.
+- If your questions are not addressed in our FAQs, kindly reach out to us at contact@codefiesta.sg! If it is relevant to more people, we will add it in this FAQ section.

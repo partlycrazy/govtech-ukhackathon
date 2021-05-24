@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /content/contact-us/
 ---
 ### **Get in touch with us here**
-- Email: <codefiesta21@gmail.com>
+- Email: <contact@codefiesta.sg>
 
 #### Organising Commitee:
 - Cherie-Anne Lee
