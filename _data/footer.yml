@@ -7,15 +7,17 @@ navlinks:
   - title: Timeline
     url: /content/timeline/
   - title: FAQs
-    url: /content/faq/
   - title: Prizes
     url: /content/prizes/
-  - title: Contact Us
-    url: /content/contact-us/
+    url: /content/faq/
   - title: T&Cs
     url: /content/terms-conditions/
   - title: GovTech Singapore
     url: /content/govtech-sg/
+  - title: Contact Us
+    url: /content/contact-us/
+  - title: Sign-ups
+    url: https://go.gov.sg/codefiesta2021
 
 show_reach: false
 faq: /content/faq/
