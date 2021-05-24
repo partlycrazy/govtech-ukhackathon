@@ -45,7 +45,7 @@ permalink: /content/faq/
 - Yes! This hackathon is open to all, regardless of coding background. The challenge statements are broad in nature, and the planned sessions will give you guidance on how to prepare your solutions. 
 
 <b style="color:#695db1">Is there an age limit for participating?</b>
-- No age limit. However, we are looking for students with expected graduation year in 2021, or later. If you will be below 18 years old when signing up, we will require consent from your parent/guardian. Please download [this](/content/TODO) form and upload it when you fill in your registration form.
+- No age limit. However, we are looking for students with expected graduation year in 2021, or later. If you will be below 18 years old when signing up, we will require consent from your parent/guardian. Please download [this](/documents/CodeFiesta_21_parental_consent.docx) form and upload it when you fill in your registration form.
 
 <b style="color:#695db1">How much does it take to cost to sign up?</b>
 - It’s entirely free! 
