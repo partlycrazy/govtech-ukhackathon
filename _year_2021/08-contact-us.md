@@ -5,7 +5,7 @@ permalink: /content/contact-us/
 ### **Get in touch with us here**
 - Email: <contact@codefiesta.sg>
 
-#### Organising Commitee:
+<!-- ### About the Organising Commitee:
 
 ##### Cherie-Anne Lee
 - What is your favourite app?
@@ -16,7 +16,6 @@ permalink: /content/contact-us/
   - 
 
 ##### Edwyn Pek
-<!-- ![edwyn]() -->
 *Imperial College London, Year 2, Electronic and Electrical Engineering*
 
 - What is your favourite app?
@@ -73,3 +72,5 @@ permalink: /content/contact-us/
   - There’s always something new! Human creativity knows no bound and in some ways, technology acts as both a catalyst for rapid innovation, as well as the product of one’s efforts. We live in a very exciting time where digital technology is still rather nascent, meaning that there’s still a lot more to discover and look forward to!
 - What is your favourite food?
   - My go-to comfort food is definitely Encik Tan’s chicken cutlet curry rice. Apart from that, anything unhealthy like burgers and pizza will do.
+
+ -->
