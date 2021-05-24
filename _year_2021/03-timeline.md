@@ -98,15 +98,15 @@ permalink: /content/timeline
   <tr>
     <td class="tg-wp8o" rowspan="3">10</td>
     <td class="tg-73oq" rowspan="3">Sun 4 July</td>
-    <td class="tg-73oq">1400</td>
+    <td class="tg-73oq">1400-1500</td>
     <td class="tg-73oq">Final Presentations</td>
   </tr>
   <tr>
-    <td class="tg-73oq">1500</td>
+    <td class="tg-73oq">1500-1545</td>
     <td class="tg-73oq">Pub Quiz</td>
   </tr>
   <tr>
-    <td class="tg-73oq">1545</td>
+    <td class="tg-73oq">1545-1600</td>
     <td class="tg-73oq">Closing Address and Prize Presentation</td>
   </tr>
   <tr>
